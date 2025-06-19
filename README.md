@@ -24,6 +24,7 @@ Her grup üyesi, her projeye dair bireysel anlatım videosu çekmiş ve GitHub r
 > Backend: Node.js + Express + MongoDB  
 > Platform: AWS (EB + Amplify)
 
+- 📂 [`project1-skynotes`](./project1-skynotes/)
 - 🌐 Canlı Demo: [Skynotes](https://skynotes.borak.dev/)
 - 🎥 Bora: [YouTube](https://youtu.be/EyVPyuHyZCw)
 - 🎥 Hüseyin: [YouTube](https://youtu.be/uzP7cAMslx4)
@@ -37,6 +38,7 @@ Her grup üyesi, her projeye dair bireysel anlatım videosu çekmiş ve GitHub r
 > Backend: Python + Sagemaker  
 > Platform: AWS (S3, Lambda, API Gateway)
 
+- 📂 [`project2-ml-analytics`](./project2-ml-analytics/)
 - 🎥 Bora: [YouTube](https://youtu.be/P8G7fpsn-ig)
 - 🎥 Hüseyin: [YouTube](https://youtu.be/Lqkzts8Yn48)
 - 🎥 Yusuf: [YouTube](https://youtu.be/hDo2oQ2puFU)
@@ -49,7 +51,7 @@ Her grup üyesi, her projeye dair bireysel anlatım videosu çekmiş ve GitHub r
 > Backend: Node.js + MongoDB  
 > Platform: Azure (Web App + Static Web App)
 
-
+- 📂 [`project3-ecommerce`](./project3-ecommerce/)
 - 🌐 Canlı Demo: [Azure Site](https://nice-sand-04de3bb0f.6.azurestaticapps.net)
 - 🎥 Bora: [YouTube](https://youtu.be/K70y9Q2krTs)
 - 🎥 Hüseyin: [YouTube](https://youtu.be/9z-mOofC4VY)
@@ -62,7 +64,7 @@ Her grup üyesi, her projeye dair bireysel anlatım videosu çekmiş ve GitHub r
 > Backend: Python 3.13  
 > Platform: Google Cloud (Pub/Sub, Cloud Functions, Firestore, BigQuery)
 
-
+- 📂 [`project4-iot-gcp`](./project4-iot-gcp/)
 - 🔗 [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/95e13dc5-2708-4148-885f-037f6f775e4c)
 - 🎥 Bora: [YouTube](https://youtu.be/tA8p7Vt9Aio)
 - 🎥 Hüseyin: [YouTube](https://youtu.be/nQBN8iOe3TE)
