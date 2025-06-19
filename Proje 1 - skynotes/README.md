@@ -6,7 +6,7 @@ SkyNotes projesi, **Amazon Web Services (AWS)** altyapısı üzerinde çalışma
 
 ## 🔗 Önemli Bağlantılar
 
-- 🎥 Proje Videosu (Burak): [https://youtu.be/cuVuJl7IuXE](https://youtu.be/cuVuJl7IuXE)
+- 🎥 Proje Videosu (Bora): [https://youtu.be/cuVuJl7IuXE](https://youtu.be/cuVuJl7IuXE)
 - 🌐 Canlı Demo: [https://skynotes.borak.dev](https://skynotes.borak.dev)
 - 🔗 Orijinal GitHub Reposu: [https://github.com/brckfrc/skynotes](https://github.com/brckfrc/skynotes)
 
