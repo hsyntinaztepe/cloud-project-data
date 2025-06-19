@@ -1,8 +1,8 @@
 21290360.pdf -> Teslim edilen son döküman
 
-Cloud Final Rapor.pdf -> Final Raporu
+Cloud Final Raporu.pdf -> Final Raporu
 
-Cloud Vize Rapor.pdf -> Vize Raporu
+Cloud Vize Raporu.pdf -> Vize Raporu
 
 test-V-1.csv -> Proje 2 de kullanılan örnek veriseti
 
